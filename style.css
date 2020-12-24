@@ -1,0 +1,73 @@
+.background_scroll {
+    background-color: #000;
+    background: url(images/fonnomenklatura.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.background_small {
+    background-color: #000;
+    background: url(images/fon1.png) no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.background {
+    background-color: #000;
+    background: url(images/fon1.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.down {
+    color: rgb(230, 230, 230);
+    text-shadow: 2px 2px 0 rgb(0, 0, 0);
+    font-family: "Verdana", Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblicue;
+    font-weight: bolder;
+    font-size: medium;
+}
+
+.indexMid1 {
+    color: rgb(174, 230, 152);
+    text-shadow: -1px -1px 0 #000, 2px 2px 0 rgb(0, 0, 0);
+    font-family: "Comic Sans MS", Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblicue;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.indexMid2 {
+    color: rgb(174, 230, 152);
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-family: "Comic Sans MS", Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblicue;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.aboutUs {
+    color: rgb(174, 230, 152);
+    text-shadow: -1px -1px 0 #000, 2px 2px 0 rgb(0, 0, 0);
+    font-family: "Comic Sans MS", Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblicue;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.nav_first {
+    color: rgb(10, 160, 30);
+    text-shadow: -1px -1px 0 #000, 2px 2px 0 rgb(0, 0, 0);
+    font-family: "Comic Sans MS", Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblicue;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.nav_sec {
+    color: rgb(134, 163, 134);
+    text-shadow: -1px -1px 0 #000, 2px 2px 0 rgb(0, 0, 0);
+    font-family: Lucida Console;
+    font-weight: 500;
+    font-size: x-large;
+}
